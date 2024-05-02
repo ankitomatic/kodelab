@@ -1,5 +1,5 @@
-![Alt Text](/home/vertex/Pictures/Screenshots/Screenshot from 2024-01-10 05-25-37.png)
-![Alt Text](/home/vertex/Pictures/Screenshots/Screenshot from 2024-01-10 05-31-45.png)
+![Alt Text](Screenshot from 2024-01-10 05-25-37.png)
+![Alt Text](Screenshot from 2024-01-10 05-31-45.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
